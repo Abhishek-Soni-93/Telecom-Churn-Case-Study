@@ -45,6 +45,6 @@ The dataset contains customer-level information for a span of four consecutive m
 
 The business objective is to predict the churn in the last (i.e. the ninth) month using the data (features) from the first three months. To do this task well, understanding the typical customer behaviour during churn will be helpful.
 
-##### Expected Outcome:
+### Expected Outcome:
 We will be building two machine learning models at the end of the case study. The first model will be classification model which will be able to achieve one of the two goals - to predict customers who will churn. The second model will be a regression model to identify the important features which eventually leads to customer churns.
  
